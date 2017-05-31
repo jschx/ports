@@ -1,0 +1,7 @@
+@comment $OpenBSD$
+@mode g+s
+@group auth
+@bin bin/slock
+@mode
+@group
+@man man/man1/slock.1

@@ -1,0 +1,14 @@
+$OpenBSD$
+Index: config.def.h
+--- config.def.h.orig
++++ config.def.h
+@@ -1,6 +1,6 @@
+ static const char *colorname[NUMCOLS] = {
+-	"black",     /* after initialization */
+-	"#005577",   /* during input */
+-	"#CC3333",   /* failed/cleared the input */
++	"#222222",   /* after initialization */
++	"#444444",   /* during input */
++	"#aa6666",   /* failed/cleared the input */
+ };
+ static const Bool failonclear = True;

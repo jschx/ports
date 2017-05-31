@@ -1,0 +1,5 @@
+@comment $OpenBSD$
+share/fonts/
+@fontdir share/fonts/profontiix/
+share/fonts/profontiix/LICENSE
+share/fonts/profontiix/ProFontIIx.ttf

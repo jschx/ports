@@ -1,0 +1,11 @@
+@comment $OpenBSD$
+share/fonts/
+@fontdir share/fonts/profont-x11/
+share/fonts/profont-x11/LICENSE
+share/fonts/profont-x11/ProFont_r400-10.pcf
+share/fonts/profont-x11/ProFont_r400-11.pcf
+share/fonts/profont-x11/ProFont_r400-12.pcf
+share/fonts/profont-x11/ProFont_r400-15.pcf
+share/fonts/profont-x11/ProFont_r400-17.pcf
+share/fonts/profont-x11/ProFont_r400-22.pcf
+share/fonts/profont-x11/ProFont_r400-29.pcf
